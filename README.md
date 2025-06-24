@@ -48,7 +48,7 @@ Actualmente trabajo en una consultora ambiental, donde aporto **cartografía té
 ## 🔗 Enlaces y contacto
 
 * 🌐 Web: [pedralcg.github.io](https://pedralcg.github.io)
-* 📧 Email: [pedralcg@gmail.com](mailto:pedralcg@gmail.com)
+* 📧 Email: [pedralc.devg@gmail.com](mailto:pedralcg.dev@gmail.com)
 * 👤 LinkedIn: [linkedin.com/in/pedro-alcoba-gomez](https://www.linkedin.com/in/pedro-alcoba-gomez)
 * 💾 Repositorios: [github.com/pedralcg](https://github.com/pedralcg?tab=repositories)
 
