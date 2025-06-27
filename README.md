@@ -15,13 +15,13 @@ Donde recopilo mis proyectos, recursos y ejemplos de visores web GIS.
 
 ## 📊 Proyectos destacados
 
-### [🔍 Visor comparativo de cartografía histórica y actual](https://pedralcg.github.io/projects/visor-comparador-ol/)
+### [🔍 Visor comparativo de cartografía histórica y actual](https://github.com/pedralcg/visor-comparador-ol)
 
-Visor web para comparar mapas históricos y actuales con OpenLayers.
+Visor web interactivo para comparar cartografía histórica y actual mediante OpenLayers y mapas oficiales.
+ 
+### [🗺️ Visor Etnográfico para rutas culturales](https://github.com/pedralcg/visor-ruta-etnografica-leaflet/)
 
-### [🗺️ Visor Etnográfico para rutas culturales](https://pedralcg.github.io/projects/visor-ruta-etnografica-leaflet/)
-
-Visor web para visualizar rutas etnográficas con puntos de interés con Leaflet.
+Mapa interactivo de rutas culturales con puntos destacados e imágenes, implementado con Leaflet.
 
 ---
 
