@@ -15,6 +15,11 @@ Donde recopilo mis proyectos, recursos y ejemplos de visores web GIS.
 
 ## 📊 Proyectos destacados
 
+
+### [📊 Geoportal Ambiental - Región de Murcia](https://github.com/pedralcg/geoportal-rm)
+
+Aplicación web interactiva para visualizar y analizar datos ambientales de la Región de Murcia.
+
 ### [🔍 Visor comparativo de cartografía histórica y actual](https://github.com/pedralcg/visor-comparador-ol)
 
 Visor web interactivo para comparar cartografía histórica y actual mediante OpenLayers y mapas oficiales.
