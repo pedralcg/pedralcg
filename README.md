@@ -103,7 +103,7 @@ Abre un issue en el repositorio GitHub del proyecto o contáctame por email.
 
 ## 📄 Licencia
 
-Todo el código y contenido compartido en mis proyectos se publicabajo la Licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**, salvo que se indique lo contrario.
+Todo el código y contenido compartido en mis proyectos se publica bajo la Licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**, salvo que se indique lo contrario.
 
 Esto significa que puedes:
 
