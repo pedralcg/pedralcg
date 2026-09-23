@@ -9,6 +9,9 @@ En paralelo desarrollo aplicaciones web, visores GIS y herramientas abiertas que
 convierten datos ambientales y territoriales en algo que se puede usar — con React,
 Astro, MapLibre, Python e IA.
 
+No necesito que me expliques qué es un shapefile ni un estudio de impacto ambiental.
+Entiendo el problema antes de abrir el editor de código.
+
 ---
 
 ## Open source
