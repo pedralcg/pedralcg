@@ -19,7 +19,7 @@ Entiendo el problema antes de abrir el editor de código.
 ### [arcmap-mcp](https://github.com/pedralcg/arcmap-mcp) — ArcMap 10.x controlado por IA
 Servidor MCP que permite a un asistente de IA (Claude, Gemini, OpenCode…) conducir una
 sesión viva de ArcMap: capas, simbología, series de planos, análisis ambiental y captura
-del lienzo. 58 herramientas, instalación de un clic, 100% local. Los MCP de la comunidad
+del lienzo. 66 herramientas, instalación de un clic, 100% local. Los MCP de la comunidad
 cubren QGIS y ArcGIS Pro; para ArcMap no había ninguno abierto.  
 `C#` `ArcObjects` `Python` `arcpy` `MCP` · MIT
 
