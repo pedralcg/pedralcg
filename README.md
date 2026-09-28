@@ -24,10 +24,12 @@ cubren QGIS y ArcGIS Pro; para ArcMap no había ninguno abierto.
 `C#` `ArcObjects` `Python` `arcpy` `MCP` · MIT
 
 ### [qml2lyr](https://github.com/pedralcg/qml2lyr) — estilos de QGIS a ArcMap
-Plugin de QGIS que guarda el estilo de una capa como `.lyr` de ArcMap 10.5, vectorial
-y ráster: categorías, graduados, reglas, tramas, marcadores, filtros, opacidad y
-visibilidad por escala. Cubre la dirección QGIS → ArcMap, que la versión gratuita de
-SLYR no ofrece. Se instala desde un zip; necesita ArcGIS Desktop 10.5 en el mismo equipo.  
+Plugin de QGIS que lleva los estilos a ArcMap 10.5: una capa a `.lyr` desde el clic
+derecho, o el proyecto entero a `.mxd` con sus grupos, orden y visibilidad. Vectorial y
+ráster: categorías (también por varios campos), graduados, reglas, tramas, marcadores,
+etiquetas, filtros, ráster RGB y servicios WMS y WMTS. Cubre la dirección QGIS → ArcMap,
+que la versión gratuita de SLYR no ofrece. Se instala desde un zip; necesita ArcGIS
+Desktop 10.5 en el mismo equipo.  
 `Python` `PyQGIS` `ArcObjects` `arcpy` · MIT · experimental
 
 ---
