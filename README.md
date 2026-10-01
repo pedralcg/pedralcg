@@ -65,8 +65,9 @@ galería fotográfica por parada y pronóstico meteorológico.
 
 En [pedralcg.dev/blog](https://pedralcg.dev/blog): SIG e IA con MCP
 ([QGIS](https://pedralcg.dev/blog/introduccion-mcp-qgis),
-[ArcGIS Pro](https://pedralcg.dev/blog/controla-arcgis-pro-con-ia-mcp)), detección de
-incendios desde satélite y métodos de análisis ráster.
+[ArcGIS Pro](https://pedralcg.dev/blog/controla-arcgis-pro-con-ia-mcp),
+[ArcMap](https://pedralcg.dev/blog/controla-arcmap-con-ia-mcp)), detección de incendios desde
+satélite y métodos de análisis ráster.
 
 ---
 
