@@ -4,7 +4,7 @@
 
 Técnico SIG y teledetección · Desarrollo web geoespacial · Python, GEE e IA aplicada al territorio
 
-Ambientólogo con más de 11 años en cartografía, análisis espacial, teledetección y LiDAR,
+Ambientólogo con más de 12 años en cartografía, análisis espacial, teledetección y LiDAR,
 desde 2014 en Ingeniería del Entorno Natural. En paralelo construyo aplicaciones web,
 visores GIS y herramientas abiertas como [arcmap-mcp](https://github.com/pedralcg/arcmap-mcp),
 con React, Astro, MapLibre, Python e IA.
